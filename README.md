@@ -31,7 +31,9 @@ Author: Howard Kuo
         -  Last Digit of the Partial Sum of Fibonacci Numbers
         -  Last Digit of the Sum of Fibonacci Numbers
         -  Huge Fibonacci Number
-        -  
+        -  Last Digit of the Sum of squares of Fibonacci Numbers 
+        -  Greatest Common Divisor
+        -  Least Common Multiple
 - [ch2. Performance Analysis](https://hackmd.io/qQiHOv5XTgW31OmKwkMAGg)
     - [ch2.1 Visualize Big O plot of functions](https://colab.research.google.com/drive/1HUOtDmb9OWRRBEawgQXp5yjHl6XPEpZ-?usp=sharing)
 - [Ch3. Core Algorithms]
