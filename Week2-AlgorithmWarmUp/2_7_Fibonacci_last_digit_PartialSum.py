@@ -1,3 +1,5 @@
+# 2-7 
+
 #Last Digit of the Partial Sum of Fibonacci
 # NumbersProblem
 
@@ -40,7 +42,7 @@ def fast_fibonacci_last_digit_sum_v2(n):
     if reduced_n <= 1:
         return reduced_n
     previous , current = 0,1 
-    for _ in range(n-1):
+    for _ in range(reduced_n-1):
         previous , current = current , (previous+ current) %10
     return current
 def fast_fibonacci_partial_sum_naive(n_0, n):
